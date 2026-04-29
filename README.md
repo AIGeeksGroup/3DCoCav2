@@ -156,7 +156,9 @@ python main.py --dataset tod3cap --test_caption --test_ckpt ckpt/3DCoCa/checkpoi
   --use_tts --tts_judge llm --tts_judge_api_key "$TTS_JUDGE_API_KEY" \
   --tts_judge_base_url "$TTS_JUDGE_BASE_URL" --tts_judge_model "$TTS_JUDGE_MODEL"
 ```
+## 🌟 Star History
 
+[![Star History Chart](https://api.star-history.com/svg?repos=AIGeeksGroup/3DCoCav2&type=date&legend=top-left)](https://www.star-history.com/#AIGeeksGroup/3DCoCav2&type=date&legend=top-left)
 
 ## 🙏 Acknowledgements
 We thank the authors of the following open-source repositories for their valuable code and inspiration: [EPCL](https://github.com/XiaoshuiHuang/EPCL), [CoCa](https://github.com/lucidrains/CoCa-pytorch), and [Vote2Cap-DETR](https://github.com/ch3cook-fdu/Vote2Cap-DETR).
