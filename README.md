@@ -1,6 +1,6 @@
 # 3D CoCa v2
 Implementation for the paper:
-> **3D CoCa v2: Contrastive Learners with Test-Time Search for Generalizable Spatial Intelligence**.
+> **3D CoCa v2: Contrastive Learners with Test-Time Search for Generalizable Spatial Intelligence**
 > 
 > [Hao Tang](https://ha0tang.github.io/)\*†, [Ting Huang](https://github.com/Believeht029)\*, [Zeyu Zhang](https://steve-zeyu-zhang.github.io/)\*
 >
