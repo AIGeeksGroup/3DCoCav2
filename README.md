@@ -5,6 +5,9 @@ Implementation for the paper:
 > [Hao Tang](https://ha0tang.github.io/)\*†, [Ting Huang](https://github.com/Believeht029)\*, [Zeyu Zhang](https://steve-zeyu-zhang.github.io/)\*
 >
 > \*Equal contribution. †Corresponding author.
+>
+> ***IJCV 2026***
+> 
 
 [![arXiv](https://img.shields.io/badge/arXiv-2601.06496-B31B1B)](https://arxiv.org/abs/2601.06496)
 [![PDF](https://img.shields.io/badge/PDF-2601.06496-4B4B4B)](https://arxiv.org/pdf/2601.06496)
