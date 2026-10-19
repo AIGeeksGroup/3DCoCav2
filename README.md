@@ -11,7 +11,6 @@ Implementation for the paper:
 
 [![arXiv](https://img.shields.io/badge/arXiv-2601.06496-B31B1B)](https://arxiv.org/abs/2601.06496)
 [![PDF](https://img.shields.io/badge/PDF-2601.06496-4B4B4B)](https://arxiv.org/pdf/2601.06496)
-[![HuggingFace Model](https://img.shields.io/badge/HuggingFace-Model-F2B90C)](https://huggingface.co/AIGeeksGroup/3DCoCav2)
 [![HuggingFace Paper](https://img.shields.io/badge/HuggingFace-Paper-3B7DDD)](https://huggingface.co/papers/2601.06496)
 
 ## 📚 Citation
